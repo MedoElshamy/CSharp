@@ -1,0 +1,4 @@
+C:\Users\MElshamY\documents\visual studio 2010\Projects\FirstPrograme\FirstPrograme\bin\Debug\FirstPrograme.exe
+C:\Users\MElshamY\documents\visual studio 2010\Projects\FirstPrograme\FirstPrograme\bin\Debug\FirstPrograme.pdb
+C:\Users\MElshamY\documents\visual studio 2010\Projects\FirstPrograme\FirstPrograme\obj\x86\Debug\FirstPrograme.exe
+C:\Users\MElshamY\documents\visual studio 2010\Projects\FirstPrograme\FirstPrograme\obj\x86\Debug\FirstPrograme.pdb
